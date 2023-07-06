@@ -6,9 +6,9 @@
 
 🖥️ I started contributing to open-source projects since the early 2000s, and have since contributed to projects like [KDE Plasma](https://kde.org/plasma-desktop/), [DigiKam](https://www.digikam.org/), [Qt](https://www.qt.io/), [WebKit](https://webkit.org/), [Chromium Blink](https://www.chromium.org/blink/), [Mozilla Servo](https://servo.org/), [ASIO C++ Library](https://think-async.com/Asio/), and [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native), among others.
 
-👨‍💻 Currently, I work as an Engineering Manager at [Mapbox](https://www.mapbox.com/) for the Core SDK team, an internal platform team providing shared foundational components to all Mapbox SDKs.
+👨‍💻 Currently, I work as Lead Software Engineer at [Mapbox](https://www.mapbox.com/) for the Core SDK team, an internal platform team providing foundational components shared across all Mapbox SDKs.
 
-📝 I have a [blog](https://brunoabinader.github.io/) where I write about open-source development, programming languages, build systems, and shell scripts.
+📝 I have a [blog](https://brunoabinader.github.io/) where I write about open-source development, programming languages, build systems and shell scripts.
 
 ## Links :link:
 - Blog: https://brunoabinader.github.io
