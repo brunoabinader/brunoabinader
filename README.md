@@ -6,7 +6,7 @@
 
 🖥️ I started contributing to open-source projects since the early 2000s, and have since contributed to projects like [KDE Plasma](https://kde.org/plasma-desktop/), [DigiKam](https://www.digikam.org/), [Qt](https://www.qt.io/), [WebKit](https://webkit.org/), [Chromium Blink](https://www.chromium.org/blink/), [Mozilla Servo](https://servo.org/), [ASIO C++ Library](https://think-async.com/Asio/), and [Mapbox GL Native](https://github.com/mapbox/mapbox-gl-native), among others.
 
-👨‍💻 Currently, I work as an Engineering Manager for the Automotive Integration team at [Mapbox](https://www.mapbox.com/), integrating Mapbox's Maps, Navigation, and Search SDK stack to key global automakers like Toyota, BMW, Zeekr, among others.
+🛰️ Currently, I work as a Senior Staff Software Engineer at [ICEYE](https://www.iceye.com/) as part of the Flight Software team.
 
 📝 I have a [blog](https://brunoabinader.github.io/) where I write about open-source development, programming languages, build systems, and shell scripts.
 
@@ -18,4 +18,4 @@
 - Open-source contributions: https://openhub.net/accounts/brunoabinader
 
 ## Contact :mailbox:
-- brunoabinader@gmail.com | bruno@mapbox.com
+- brunoabinader@gmail.com | bruno.abinader@iceye.com
