@@ -1,6 +1,6 @@
 ## Olá! :wave:
 
-🌍 My name is Bruno Abinader, I am a Brazilian Software Engineer living in [Espoo](https://en.wikipedia.org/wiki/Espoo), 🇫🇮 [Finland](https://en.wikipedia.org/wiki/Finland).
+🌍 My name is Bruno Abinader, I am a 🇧🇷 Brazilian and 🇵🇹 Portuguese Software Engineer living in [Espoo](https://en.wikipedia.org/wiki/Espoo), 🇫🇮 [Finland](https://en.wikipedia.org/wiki/Finland).
 
 🌎 My hometown in 🇧🇷 [Brazil](https://en.wikipedia.org/wiki/Brazil) is [Manaus](https://en.wikipedia.org/wiki/Manaus), at the center of the 🌳 [Amazon rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest).
 
